@@ -26,3 +26,6 @@ C:\z_code\balta\MyRazorApp\obj\Debug\net10.0\refint\MyRazorApp.dll
 C:\z_code\balta\MyRazorApp\obj\Debug\net10.0\MyRazorApp.pdb
 C:\z_code\balta\MyRazorApp\obj\Debug\net10.0\MyRazorApp.genruntimeconfig.cache
 C:\z_code\balta\MyRazorApp\obj\Debug\net10.0\ref\MyRazorApp.dll
+C:\z_code\balta\MyRazorApp\bin\Debug\net10.0\MyRazorApp.staticwebassets.runtime.json
+C:\z_code\balta\MyRazorApp\obj\Debug\net10.0\MyRazorApp.RazorAssemblyInfo.cache
+C:\z_code\balta\MyRazorApp\obj\Debug\net10.0\MyRazorApp.RazorAssemblyInfo.cs
