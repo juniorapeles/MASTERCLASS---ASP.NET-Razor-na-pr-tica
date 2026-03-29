@@ -29,3 +29,9 @@ C:\z_code\balta\MyRazorApp\obj\Debug\net10.0\ref\MyRazorApp.dll
 C:\z_code\balta\MyRazorApp\bin\Debug\net10.0\MyRazorApp.staticwebassets.runtime.json
 C:\z_code\balta\MyRazorApp\obj\Debug\net10.0\MyRazorApp.RazorAssemblyInfo.cache
 C:\z_code\balta\MyRazorApp\obj\Debug\net10.0\MyRazorApp.RazorAssemblyInfo.cs
+C:\z_code\balta\MyRazorApp\obj\Debug\net10.0\compressed\ixen3nrcc7-{0}-ho8pgamrxr-ho8pgamrxr.gz
+C:\z_code\balta\MyRazorApp\obj\Debug\net10.0\scopedcss\Pages\About.cshtml.rz.scp.css
+C:\z_code\balta\MyRazorApp\obj\Debug\net10.0\scopedcss\projectbundle\MyRazorApp.bundle.scp.css
+C:\z_code\balta\MyRazorApp\obj\Debug\net10.0\scopedcss\Pages\Shared\NavMenuPartial.cshtml.rz.scp.css
+C:\z_code\balta\MyRazorApp\obj\Debug\net10.0\compressed\3o3piqdcl4-{0}-st3f1t7qur-st3f1t7qur.gz
+C:\z_code\balta\MyRazorApp\obj\Debug\net10.0\compressed\csr3o6lf9f-{0}-st3f1t7qur-st3f1t7qur.gz
