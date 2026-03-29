@@ -35,3 +35,4 @@ C:\z_code\balta\MyRazorApp\obj\Debug\net10.0\scopedcss\projectbundle\MyRazorApp.
 C:\z_code\balta\MyRazorApp\obj\Debug\net10.0\scopedcss\Pages\Shared\NavMenuPartial.cshtml.rz.scp.css
 C:\z_code\balta\MyRazorApp\obj\Debug\net10.0\compressed\3o3piqdcl4-{0}-st3f1t7qur-st3f1t7qur.gz
 C:\z_code\balta\MyRazorApp\obj\Debug\net10.0\compressed\csr3o6lf9f-{0}-st3f1t7qur-st3f1t7qur.gz
+C:\z_code\balta\MyRazorApp\obj\Debug\net10.0\compressed\xmv6neokkt-{0}-302t8y1c7y-302t8y1c7y.gz
