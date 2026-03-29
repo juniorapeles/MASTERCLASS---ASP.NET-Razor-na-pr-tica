@@ -9,7 +9,7 @@ public class Index : PageModel
     
     public async Task OnGet()
     {
-        await Task.Delay(5000);
+       
         for (var i = 0; i <= 100; i++)
         {
             Categories.Add(
